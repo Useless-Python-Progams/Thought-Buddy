@@ -17,7 +17,7 @@ print ("now lets get started")
 time.sleep(1)
 print ("please select the first time unit in hours here is the format this program uses Hours/minutes/secounds")
 time.sleep(3)
-("please select how many hours")
+print ("please select how many hours")
 hour = input()
 hour = int(hour)
 hours = hour * 3600
